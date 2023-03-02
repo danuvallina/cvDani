@@ -1,0 +1,101 @@
+*{
+    font-family: 'Genos', sans-serif;
+}
+
+.container{
+    margin-left: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.imagen{
+    height: 19%;
+    width: 19%;
+   margin-top: 2%;
+   border-radius: 2%;
+}
+.white{
+    background-color: white
+}
+h2{
+    text-align: center;
+    font-size: 350%;
+}
+.linea{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-port{
+    width: 55%;
+    margin: 2%;
+}
+
+.card{
+    margin:auto;
+    box-sizing: border-box;
+}
+.btn{
+    background-color: rgb(17, 70, 243);
+}
+
+.row{
+    background-color: chocolate;
+}
+.col-lg-4{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.container{
+    margin-top: 4%;
+}
+
+h3{
+    text-align: center;
+    padding-top: 1%;
+    font-size: 300%;
+}
+.cont-form{
+    background-color: chocolate;
+}
+
+.cont-form2{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn{
+    background-color: black;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.rr{
+    padding-bottom: 2%;
+}
+
+.prim-col{
+   margin: auto;
+   padding-top: 3%;
+}
+
+.sec-col{
+   margin: auto;
+   
+}
+.t-iconos{
+    text-align: center;
+
+}
+.iconos{
+    text-align: center;    
+}
+.alinear{
+    text-align: center;
+}
+
+.me{
+    font-size: 23px;
+}
